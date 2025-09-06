@@ -1,0 +1,3 @@
+AIzaSyDbXXFrFvOL1_6X4_b7IiCS5ng0Hqd6dSQ
+
+streamlit run chat.py
