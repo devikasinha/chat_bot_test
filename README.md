@@ -2,6 +2,7 @@
 
 A conversational AI chatbot built using **Google Gemini (via LangChain)** and **Streamlit**.  
 The chatbot remembers past interactions, giving context-aware answers in real time.
+it stores he history of thr past conversations.
 
 ---
 
