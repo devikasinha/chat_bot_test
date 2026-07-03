@@ -6,6 +6,8 @@ it stores he history of thr past conversations.
 
 ---
 
+
+
 ## ✨ Features
 
 - ⚡ Powered by **Google Gemini (1.5 Flash / Pro)**
